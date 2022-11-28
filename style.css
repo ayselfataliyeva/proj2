@@ -1,0 +1,57 @@
+body{
+    width: 100%;
+}
+.main{
+    margin: 200px auto;
+    width:336px;
+    height:236px;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+}
+.parent{
+    width: 85%;
+    margin: 0 auto;
+    /* border: 1px solid #C4C4C4; */
+    text-align: center;
+}
+.top{
+    height: 28px;
+    background-color: #FFDC40;
+    border-radius: 10px 10px 0 0 ;
+}
+.todo{
+    width: 198px;
+    height: 34px;
+    margin: 13px auto;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    /* border: 1px solid #C4C4C4; */
+}
+.btn{
+    width: 129px;
+    line-height: 42px;
+    background-color: #833AE0;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.parent input{
+    width: 286px;
+height: 40px;
+border: 1px solid #C4C4C4;
+border-radius: 10px;
+
+}
+
+.svg{
+text-align: right;
+
+}
+object{
+    color: gray;
+}
