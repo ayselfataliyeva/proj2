@@ -2,9 +2,9 @@ body{
     width: 100%;
 }
 .main{
-    margin: 200px auto;
+    margin: 100px auto;
     width:336px;
-    height:236px;
+    /* height:236px; */
     border: 1px solid #C4C4C4;
     border-radius: 10px;
 }
@@ -34,17 +34,21 @@ body{
     line-height: 42px;
     background-color: #833AE0;
     border-radius: 20px;
-    margin: 0 auto;
-    margin-top: 20px;
+    margin: 20px auto;
+    /* margin-top: 20px; */
     color: white;
     font-weight: bold;
+}
+.btn a{
+    color:white;
+    text-decoration: none;
 }
 
 .parent input{
     width: 286px;
-height: 40px;
-border: 1px solid #C4C4C4;
-border-radius: 10px;
+    height: 40px;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
 
 }
 
@@ -52,6 +56,15 @@ border-radius: 10px;
 text-align: right;
 
 }
-object{
-    color: gray;
+
+.lst{
+    width: 250px;
+    text-align: left;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+p svg{
+    float: right;
 }
